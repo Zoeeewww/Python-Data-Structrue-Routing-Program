@@ -10,7 +10,5 @@ needed. The day ends when all 40 packages have been delivered.
 •  Delivery time is instantaneous, i.e., no time passes while at a delivery (that time is factored into the
 average speed of the trucks).
 •  There is up to one special note for each package.
-•  The wrong delivery address for package #9, Third District Juvenile Court , will be corrected at 10:20
-a.m. The correct address is 410 S State St., Salt Lake City, UT 84111.
 •  The package ID is unique; there are no collisions.
 • No further assumptions exist or are allowed.
